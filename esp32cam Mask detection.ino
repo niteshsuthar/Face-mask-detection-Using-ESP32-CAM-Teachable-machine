@@ -223,9 +223,9 @@ void setup() {
 
 void loop() {
 
-if(P1=="helmet"){
+if(P1=="Mask"){
   
-  Serial.println("wah...");
+  Serial.println("Gate Open..You can go..");
   }
 
  }
@@ -641,7 +641,7 @@ static const char PROGMEM INDEX_HTML[] = R"rawliteral(<!doctype html>
                         </div>
                         <div class="input-group" style="display:none;">
                           <label for="modelPath">Model Path</label>
-                          <input type="text" id="modelPath" value=https://teachablemachine.withgoogle.com/models/KhigiCCoU/>
+                          <input type="text" id="modelPath" value=https://teachablemachine.withgoogle.com/models/XHqAtmRxi/>  // edit your Teachable machine Model
                         </div>
                         <div class="input-group" style="display:none;">
                             <label for="btnModel"></label>
