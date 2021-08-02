@@ -7,4 +7,5 @@ Note:-
 4. You can change a Model link in the code.
 if have any query connect: niteshsuthar7214@gmail.com
 
-![IMG_20210602_114136](https://user-images.githubusercontent.com/56003663/127900195-f670d5a6-5f94-4b1a-bf9b-5177452de60b.jpg)
+![IMG_20210602_114136](https://user-images.githubusercontent.com/56003663/127900530-659aff96-29fc-4f1b-ba21-85210cb6ccf7.jpg)
+
